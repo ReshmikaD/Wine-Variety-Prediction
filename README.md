@@ -44,9 +44,13 @@ Natural Language Processing (aka NLP) is a field of AI that focuses on the abili
 
 # Model
 
-1.Models Used and accuracy in train: 1)Decision Tree: 0.5641785627873216
-                                     2)Logistic Regression: 0.6847326397290104
-                                     3)Support Vector Machine (Linear): 0.8487382224619010
+1.Models Used and accuracy in train: 
+
+    •Decision Tree: 0.5641785627873216
+    
+    •Logistic Regression: 0.6847326397290104
+    
+    •Support Vector Machine (Linear): 0.8487382224619010
 
 2.Features extracted: review_description
 
